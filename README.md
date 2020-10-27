@@ -5,7 +5,7 @@ and give adequate suggestions via a beautiful user interface.
 
 <br/>
 
-# Screenshots
+## Screenshots
 
 <p float="left">
       <img src="https://user-images.githubusercontent.com/59403437/97097294-f293f900-16a9-11eb-8eef-70c32e6e44ea.PNG" width="30%">
